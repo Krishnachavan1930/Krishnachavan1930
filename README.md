@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Frontend+%7C+React+%7C+Tailwind+Expert;DSA+Enthusiast+in+Java;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Frontend+%7C+React+%7C+Tailwind+Expert;DSA+Enthusiast+in+Java;Freelancer+Available+for+Hire+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,13 +15,44 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/krishnachavan1930)
+- 🧑‍💻 I’m also **actively freelancing** — building fast, responsive websites for clients.  
+  📬 *Open to new freelance opportunities!*
+
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/krishna-chavan-882516249/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind, Java, DSA**
 
 - 📫 How to reach me: **Krishnachavan.tech@gmail.com**
 
 - ⚡ Fun fact: *I love to design while listening to lo-fi beats! 🎧*
+
+---
+
+## 🎓 Education
+
+**Sandip Institute of Technology and Research Centre, Nashik**  
+_Bachelor of Engineering (Computer Engineering)_  
+📅 **2022 – 2026** | 📍 Nashik, Maharashtra  
+🎯 CGPA: **9.14**  
+🧠 **Relevant Coursework**: Data Structures, Operating Systems, DBMS, Machine Learning
+
+---
+
+## 💼 Experience
+
+**Full Stack Developer Intern**  
+_Cloud Counselage Pvt Ltd, Mumbai_  
+📅 **June 2024 – Sept 2024**  
+- Developed full-stack apps focusing on scalability and performance  
+- Implemented responsive UIs and streamlined workflows  
+- Collaborated via Git and GitHub for version control
+
+**Web Development Intern**  
+_Univoc Foundation, Noida_  
+📅 **Nov 2024 – Jan 2024**  
+- Built MERN stack web apps with cross-device responsiveness  
+- Created REST APIs with security best practices  
+- Worked with designers for polished UI/UX  
 
 ---
 
@@ -77,4 +108,3 @@
 ### ❤️ Support
 
 If you like my work, consider ⭐️ this repo or [buy me a coffee](https://www.buymeacoffee.com/) ☕!
-
