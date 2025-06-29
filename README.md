@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Backend Development and Advanced DSA**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://krishnachavancom.vercel.app/)
 
 - 🧑‍💻 I’m also **actively freelancing** — building fast, responsive websites for clients.  
   📬 *Open to new freelance opportunities!*
