@@ -39,6 +39,12 @@ _Bachelor of Engineering (Computer Engineering)_
 ---
 
 ## 💼 Experience
+**Full Stack Developer Inter**  
+_Worldfdoor infotech Pvt Ltd, Pune_  
+📅 **June 2025 – Nov 2025**  
+- Developed full-stack apps focusing on scalability and performance  
+- Implemented responsive UIs and streamlined workflows  
+- Collaborated via Git and GitHub for version control
 
 **Full Stack Developer Intern**  
 _Cloud Counselage Pvt Ltd, Mumbai_  
